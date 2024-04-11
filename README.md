@@ -1,7 +1,7 @@
 
 # IndexCryptogram
 
-A Python application that generates a 128-bit key using a fingerprint 
+A Python module that generates a 128-bit key using a fingerprint 
 
 
 ## Fingerprint
